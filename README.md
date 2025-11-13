@@ -21,7 +21,7 @@
 ![GDScript](https://img.shields.io/badge/GDScript-%232278b5?style=flat&logo=godotengine&logoColor=%23fff&logoSize=24&labelColor=%232278b5&color=%232278b5)
 ![JavaScript](https://img.shields.io/badge/javascript-%23%23cfcf1f?style=flat&logo=javascript&logoColor=%23fff&logoSize=24&labelColor=%23dce314&color=%23dce314)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23355be6?style=flat&logo=typescript&logoColor=%23fff&logoSize=24&labelColor=%23355be6&color=%23355be6)
-![Go](https://img.shields.io/badge/TypeScript-%231db8b8?style=flat&logo=go&logoColor=%23fff&logoSize=24&labelColor=%231db8b8&color=%231db8b8)
+![Go](https://img.shields.io/badge/Go-%231db8b8?style=flat&logo=go&logoColor=%23fff&logoSize=24&labelColor=%231db8b8&color=%231db8b8)
 
 
 ### **Framework and Libraries**
