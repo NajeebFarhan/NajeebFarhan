@@ -18,9 +18,13 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 🛠️ Tech Stack
 ### **Languages**
-- Python 
-- C++ 
-- JavaScript
+- ![Python](https://img.shields.io/badge/Python-%23e3e635?style=flat&logo=python&logoColor=%23fff&logoSize=24&labelColor=%230b5799&color=%23e3e635)
+ 
+- ![C++](https://img.shields.io/badge/C%2B%2B-%23120b99?style=flat&logo=cplusplus&logoColor=%23fff&logoSize=24&labelColor=%23120b99&color=%23120b99)
+ 
+- ![GDScript](https://img.shields.io/badge/GDScript-%232278b5?style=flat&logo=godotengine&logoColor=%23fff&logoSize=24&labelColor=%232278b5&color=%232278b5)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23%23cfcf1f?style=flat&logo=javascript&logoColor=%23fff&logoSize=24&labelColor=%23dce314&color=%23dce314)
+
 - TypeScript
 - SQL
 - Go
@@ -29,7 +33,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 - Scikit-Learn
 - React, Node.js, FastAPI
 - MySQL, SQLite, Hugging Face, PEFT
-- Godot Engine, Linux (Fedora)
+- Godot Engine, Linux (Fedora/Arch)
 
 ### **Developer Tools**
 - Git & GitHub, VS Code, WSL
@@ -56,10 +60,9 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ---
 
 ## 🌏 What I'm Working On Right Now
-- Learning from **Hands‑On Machine Learning** & **ISLR**
-- Building **Project Kisan** (hackathon): ML-powered app for farmers
-- Improving French for future higher studies
+- Learning from **Hands‑On Machine Learning**
 - Ricing and customizing Linux setups
+- Learning Game Development with **Godot Game Engine**
 
 ---
 
