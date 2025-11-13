@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajeebFarhan&layout=compact&theme=tokyonight)
 
 ### 📌 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=NajeebFarhan&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NajeebFarhan)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=NajeebFarhan&theme=tokyonight)
