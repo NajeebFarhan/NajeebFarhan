@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ---
 
 ## 🔥 About Me
-- 🤖 Currently learning: **AI/ML, Deep Learning, and Statistical ML**
+- 🤖 Currently learning: **AI/ML, Computer Vision, and some Game Dev**
 - 🐍 Mainly code in **Python**
 - 🛠️ Backend Dev using **FastAPI** and **Django**
-- 🎮 Passionate about **game development using Godot**
+- 🎮 Love playing RPG games
 - 📚 Love reading books/articles to learn fast
 - 🌱 Always building new projects & improving my skills
 
