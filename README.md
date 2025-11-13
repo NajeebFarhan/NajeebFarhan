@@ -22,19 +22,17 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ![C++](https://img.shields.io/badge/C%2B%2B-%23120b99?style=flat&logo=cplusplus&logoColor=%23fff&logoSize=24&labelColor=%23120b99&color=%23120b99)
 ![GDScript](https://img.shields.io/badge/GDScript-%232278b5?style=flat&logo=godotengine&logoColor=%23fff&logoSize=24&labelColor=%232278b5&color=%232278b5)
 ![JavaScript](https://img.shields.io/badge/javascript-%23%23cfcf1f?style=flat&logo=javascript&logoColor=%23fff&logoSize=24&labelColor=%23dce314&color=%23dce314)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23355be6?style=flat&logo=typescript&logoColor=%23fff&logoSize=24&labelColor=%23355be6&color=%23355be6)
+![Go](https://img.shields.io/badge/TypeScript-%231db8b8?style=flat&logo=go&logoColor=%23fff&logoSize=24&labelColor=%231db8b8&color=%231db8b8)
 
-- TypeScript
-- SQL
-- Go
 
-### **Frameworks / Tools**
-- Scikit-Learn
-- React, Node.js, FastAPI
-- MySQL, SQLite, Hugging Face, PEFT
-- Godot Engine, Linux (Fedora/Arch)
+### **Framework and Libraries**
+- Webdev: React, Node.js, FastAPI, Django
+- Database: SQLAlchemy, Postgres, MySQL, SQLite
+- Data Analysis and ML: numpy, pandas, matploblib, seaborn, scikit-learn
 
-### **Developer Tools**
-- Git & GitHub, VS Code, WSL
+### **Other Tools**
+- Git & GitHub, VS Code, PyCharm, WSL, Godot Engine, Linux (Fedora/Arch), DBeaver
 
 
 
