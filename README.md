@@ -53,9 +53,6 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NajeebFarhan&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/NajeebFarhan/NajeebFarhan/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌏 What I'm Working On Right Now
