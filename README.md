@@ -2,8 +2,6 @@
 
 ### 💻 Developer • ML Enthusiast • Gamer • Tech Explorer
 
-Welcome to my GitHub profile! I’m passionate about building intelligent systems, exploring game development, and creating clean, functional, and modern software.
-
 ---
 
 ## 🔥 About Me
