@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 
 ### **Framework and Libraries**
-- Webdev: React, Node.js, FastAPI, Django
+- Webdev: React, TailwindCSS, Node.js, FastAPI, Django
 - Database: SQLAlchemy, Postgres, MySQL, SQLite
 - Data Analysis and ML: numpy, pandas, matploblib, seaborn, scikit-learn
 
