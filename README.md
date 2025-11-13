@@ -57,9 +57,7 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn (add link)
-- 🐦 Twitter/X: (add link)
-- ✉️ Email: (your email)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nfmazumder/)
 
 ---
 
