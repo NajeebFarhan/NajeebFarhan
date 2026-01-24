@@ -55,9 +55,3 @@
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nfmazumder/)
 
----
-
-### ⭐ If you like my work, consider following — it motivates me to build more!
-
-Thanks for stopping by! 😊
-
