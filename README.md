@@ -5,9 +5,9 @@
 ---
 
 ## 🔥 About Me
-- 🤖 Currently learning: **AI/ML, Computer Vision, and some Game Dev**
 - 🐍 Mainly code in **Python**
 - 🛠️ Backend Dev using **FastAPI** and **Django**
+- 🤖 Machine Learning and Deep Learning.
 - 🎮 Love playing RPG games
 - 📚 Love reading books/articles to learn fast
 - 🌱 Always building new projects & improving my skills
@@ -27,7 +27,7 @@
 ### **Framework and Libraries**
 - Webdev: React, TailwindCSS, Node.js, FastAPI, Django
 - Database: SQLAlchemy, Postgres, MySQL, SQLite
-- Data Analysis and ML: numpy, pandas, matploblib, seaborn, scikit-learn
+- Data Analysis and ML: numpy, pandas, matploblib, seaborn, scikit-learn, pytorch
 
 ### **Other Tools**
 - Git & GitHub, VS Code, PyCharm, WSL, Godot Engine, Linux (Fedora/Arch), DBeaver
@@ -50,7 +50,7 @@
 ---
 
 ## 🌏 What I'm Working On Right Now
-- Learning from **Hands‑On Machine Learning**
+- Learning from the book **Hands‑On Machine Learning with scikit-learn and PyTorch** by **Aurelien Geron**
 - Ricing and customizing Linux setups
 - Learning Game Development with **Godot Game Engine**
 
