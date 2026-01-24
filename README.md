@@ -40,10 +40,6 @@
 ### 📌 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajeebFarhan&layout=compact&theme=tokyonight)
 
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=NajeebFarhan&theme=tokyonight)
-
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NajeebFarhan&theme=tokyonight)
 
