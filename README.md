@@ -35,7 +35,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NajeebFarhan&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NajeebFarhan&layout=compact&theme=tokyonight)
 
 
 ### 📈 Activity Graph
