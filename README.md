@@ -35,10 +35,8 @@
 
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NajeebFarhan&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NajeebFarhan&show_icons=true)
 
-### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NajeebFarhan&layout=compact&theme=tokyonight)
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NajeebFarhan&theme=tokyonight)
